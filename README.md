@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/lahari222/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/lahari222/leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/lahari222/leetcode/tree/master/0782-jewels-and-stones) |
 | [1260-day-of-the-year](https://github.com/lahari222/leetcode/tree/master/1260-day-of-the-year) |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/lahari222/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/lahari222/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/lahari222/leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/lahari222/leetcode/tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/lahari222/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/lahari222/leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
