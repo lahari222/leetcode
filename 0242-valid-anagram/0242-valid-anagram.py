@@ -1,16 +1,16 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        count=0
+        s_dict={}
+        t_dict={}
         for i in t:
-            if i not in s:
-                return False
-                break
-            if i in s:
-                s=s.replace(i,'',1)
-                count+=1
-        if (count==len(t)) and len(s)==0:
-            return True
-        else:
-            return False
-
+            if i in t_dict:
+                t_dict[i]+=1
+            else:
+                t_dict[i]=1
+        for i in s:
+            if i in s_dict:
+                s_dict[i]+=1
+            else:
+                s_dict[i]=1
+        return s_dict==t_dict
         
