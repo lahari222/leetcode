@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lahari222/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/lahari222/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lahari222/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/lahari222/leetcode/tree/master/0383-ransom-note) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lahari222/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/lahari222/leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
