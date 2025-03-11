@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lahari222/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lahari222/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lahari222/leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/lahari222/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0941-sort-array-by-parity](https://github.com/lahari222/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/lahari222/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/lahari222/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/lahari222/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lahari222/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lahari222/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/lahari222/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/lahari222/leetcode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/lahari222/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/lahari222/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/lahari222/leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/lahari222/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Interactive
 |  |
 | ------- |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/lahari222/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/lahari222/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/lahari222/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
