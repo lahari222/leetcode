@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/lahari222/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/lahari222/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/lahari222/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lahari222/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lahari222/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/lahari222/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lahari222/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/lahari222/leetcode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/lahari222/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lahari222/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lahari222/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/lahari222/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/lahari222/leetcode/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lahari222/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
