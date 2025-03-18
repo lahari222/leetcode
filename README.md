@@ -173,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/lahari222/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/lahari222/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/lahari222/leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
