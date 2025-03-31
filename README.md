@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lahari222/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/lahari222/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/lahari222/leetcode/tree/master/0184-department-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lahari222/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
