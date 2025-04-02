@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lahari222/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/lahari222/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lahari222/leetcode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/lahari222/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/lahari222/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/lahari222/leetcode/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/lahari222/leetcode/tree/master/1337-design-skiplist) |
