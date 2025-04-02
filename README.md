@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/lahari222/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0859-design-circular-deque](https://github.com/lahari222/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/lahari222/leetcode/tree/master/0860-design-circular-queue) |
+| [1337-design-skiplist](https://github.com/lahari222/leetcode/tree/master/1337-design-skiplist) |
 | [1767-design-front-middle-back-queue](https://github.com/lahari222/leetcode/tree/master/1767-design-front-middle-back-queue) |
 ## Interactive
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/lahari222/leetcode/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/lahari222/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/lahari222/leetcode/tree/master/0860-design-circular-queue) |
+| [1337-design-skiplist](https://github.com/lahari222/leetcode/tree/master/1337-design-skiplist) |
 | [1767-design-front-middle-back-queue](https://github.com/lahari222/leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lahari222/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Queue
