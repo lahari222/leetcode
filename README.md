@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/lahari222/leetcode/tree/master/0782-jewels-and-stones) |
 | [1260-day-of-the-year](https://github.com/lahari222/leetcode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/lahari222/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lahari222/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lahari222/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lahari222/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Array
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/lahari222/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/lahari222/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/lahari222/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lahari222/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lahari222/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/lahari222/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/lahari222/leetcode/tree/master/0860-design-circular-queue) |
 | [1767-design-front-middle-back-queue](https://github.com/lahari222/leetcode/tree/master/1767-design-front-middle-back-queue) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lahari222/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
