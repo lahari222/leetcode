@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1767-design-front-middle-back-queue](https://github.com/lahari222/leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2350-find-closest-number-to-zero](https://github.com/lahari222/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lahari222/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/lahari222/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/lahari222/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lahari222/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/lahari222/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lahari222/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/lahari222/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/lahari222/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lahari222/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/lahari222/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
