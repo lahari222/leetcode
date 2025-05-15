@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/lahari222/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lahari222/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lahari222/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2547-odd-string-difference](https://github.com/lahari222/leetcode/tree/master/2547-odd-string-difference) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lahari222/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1767-design-front-middle-back-queue](https://github.com/lahari222/leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2350-find-closest-number-to-zero](https://github.com/lahari222/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/lahari222/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2547-odd-string-difference](https://github.com/lahari222/leetcode/tree/master/2547-odd-string-difference) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lahari222/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/lahari222/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/lahari222/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/lahari222/leetcode/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/lahari222/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/lahari222/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2547-odd-string-difference](https://github.com/lahari222/leetcode/tree/master/2547-odd-string-difference) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/lahari222/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3227-find-missing-and-repeated-values](https://github.com/lahari222/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
