@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/lahari222/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/lahari222/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/lahari222/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lahari222/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lahari222/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1767-design-front-middle-back-queue](https://github.com/lahari222/leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2350-find-closest-number-to-zero](https://github.com/lahari222/leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/lahari222/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lahari222/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lahari222/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lahari222/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/lahari222/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
