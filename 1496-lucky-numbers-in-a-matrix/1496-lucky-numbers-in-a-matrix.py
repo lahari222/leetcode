@@ -1,6 +1,6 @@
 class Solution:
     def luckyNumbers(self, matrix: List[List[int]]) -> List[int]:
-        
+        result=set()
         row=[]
         col=[]
         for i in range(0,len(matrix)):
@@ -17,8 +17,11 @@ class Solution:
             col.append(max_val)
         for i in row:
             if i in col:
-                return [i]
-        return []
+                result.add(i)
+        if len(result)==0:
+            return []
+        else:
+            return list(result)
 
 
         
