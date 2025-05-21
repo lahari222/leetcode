@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/lahari222/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2547-odd-string-difference](https://github.com/lahari222/leetcode/tree/master/2547-odd-string-difference) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lahari222/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/lahari222/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lahari222/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/lahari222/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/lahari222/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/lahari222/leetcode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/lahari222/leetcode/tree/master/0898-transpose-matrix) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/lahari222/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Design
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/lahari222/leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lahari222/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lahari222/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/lahari222/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/lahari222/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/lahari222/leetcode/tree/master/3330-modify-the-matrix) |
 ## Heap (Priority Queue)
