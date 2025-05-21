@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/lahari222/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/lahari222/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lahari222/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/lahari222/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lahari222/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1767-design-front-middle-back-queue](https://github.com/lahari222/leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2211-k-radius-subarray-averages](https://github.com/lahari222/leetcode/tree/master/2211-k-radius-subarray-averages) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/lahari222/leetcode/tree/master/0898-transpose-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/lahari222/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lahari222/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/lahari222/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/lahari222/leetcode/tree/master/3330-modify-the-matrix) |
