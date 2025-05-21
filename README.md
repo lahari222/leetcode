@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/lahari222/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lahari222/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/lahari222/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3330-modify-the-matrix](https://github.com/lahari222/leetcode/tree/master/3330-modify-the-matrix) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/lahari222/leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3644-minimum-positive-sum-subarray](https://github.com/lahari222/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lahari222/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lahari222/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/lahari222/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3330-modify-the-matrix](https://github.com/lahari222/leetcode/tree/master/3330-modify-the-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
