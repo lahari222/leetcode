@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/lahari222/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0643-maximum-average-subarray-i](https://github.com/lahari222/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/lahari222/leetcode/tree/master/0682-baseball-game) |
+| [0777-toeplitz-matrix](https://github.com/lahari222/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/lahari222/leetcode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/lahari222/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/lahari222/leetcode/tree/master/0860-design-circular-queue) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/lahari222/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0777-toeplitz-matrix](https://github.com/lahari222/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/lahari222/leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lahari222/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/lahari222/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
