@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lahari222/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/lahari222/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/lahari222/leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/lahari222/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lahari222/leetcode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lahari222/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lahari222/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lahari222/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/lahari222/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/lahari222/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/lahari222/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/lahari222/leetcode/tree/master/0217-contains-duplicate) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/lahari222/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/lahari222/leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lahari222/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/lahari222/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
