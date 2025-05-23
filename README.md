@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3330-modify-the-matrix](https://github.com/lahari222/leetcode/tree/master/3330-modify-the-matrix) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/lahari222/leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3644-minimum-positive-sum-subarray](https://github.com/lahari222/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/lahari222/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lahari222/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/lahari222/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/lahari222/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lahari222/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/lahari222/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3188-find-champion-i](https://github.com/lahari222/leetcode/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/lahari222/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/lahari222/leetcode/tree/master/3330-modify-the-matrix) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/lahari222/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
