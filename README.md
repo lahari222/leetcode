@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/lahari222/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lahari222/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lahari222/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lahari222/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/lahari222/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/lahari222/leetcode/tree/master/0228-summary-ranges) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lahari222/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lahari222/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lahari222/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lahari222/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lahari222/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/lahari222/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lahari222/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/lahari222/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/lahari222/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/lahari222/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lahari222/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lahari222/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/lahari222/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/lahari222/leetcode/tree/master/0861-flipping-an-image) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lahari222/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
