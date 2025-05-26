@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/lahari222/leetcode/tree/master/0228-summary-ranges) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lahari222/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/lahari222/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0498-diagonal-traverse](https://github.com/lahari222/leetcode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/lahari222/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/lahari222/leetcode/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/lahari222/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/lahari222/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/lahari222/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/lahari222/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/lahari222/leetcode/tree/master/0898-transpose-matrix) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/lahari222/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/lahari222/leetcode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/lahari222/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/lahari222/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/lahari222/leetcode/tree/master/0898-transpose-matrix) |
