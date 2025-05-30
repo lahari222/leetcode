@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/lahari222/leetcode/tree/master/2169-simple-bank-system) |
 | [2211-k-radius-subarray-averages](https://github.com/lahari222/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lahari222/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/lahari222/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/lahari222/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/lahari222/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2547-odd-string-difference](https://github.com/lahari222/leetcode/tree/master/2547-odd-string-difference) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/lahari222/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2169-simple-bank-system](https://github.com/lahari222/leetcode/tree/master/2169-simple-bank-system) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lahari222/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/lahari222/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/lahari222/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2547-odd-string-difference](https://github.com/lahari222/leetcode/tree/master/2547-odd-string-difference) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lahari222/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/lahari222/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/lahari222/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lahari222/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/lahari222/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/lahari222/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/lahari222/leetcode/tree/master/0898-transpose-matrix) |
 | [2169-simple-bank-system](https://github.com/lahari222/leetcode/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/lahari222/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/lahari222/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Design
 |  |
