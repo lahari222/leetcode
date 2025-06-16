@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lahari222/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/lahari222/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1767-design-front-middle-back-queue](https://github.com/lahari222/leetcode/tree/master/1767-design-front-middle-back-queue) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/lahari222/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/lahari222/leetcode/tree/master/2169-simple-bank-system) |
 | [2211-k-radius-subarray-averages](https://github.com/lahari222/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lahari222/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
