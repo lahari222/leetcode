@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/lahari222/leetcode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/lahari222/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/lahari222/leetcode/tree/master/0682-baseball-game) |
+| [0729-my-calendar-i](https://github.com/lahari222/leetcode/tree/master/0729-my-calendar-i) |
 | [0777-toeplitz-matrix](https://github.com/lahari222/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/lahari222/leetcode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/lahari222/leetcode/tree/master/0859-design-circular-deque) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lahari222/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lahari222/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/lahari222/leetcode/tree/master/0278-first-bad-version) |
+| [0729-my-calendar-i](https://github.com/lahari222/leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/lahari222/leetcode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lahari222/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lahari222/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/lahari222/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lahari222/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/lahari222/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0729-my-calendar-i](https://github.com/lahari222/leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/lahari222/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/lahari222/leetcode/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/lahari222/leetcode/tree/master/1337-design-skiplist) |
@@ -318,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lahari222/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/lahari222/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/lahari222/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
