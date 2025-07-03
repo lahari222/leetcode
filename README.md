@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/lahari222/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/lahari222/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/lahari222/leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2235-capitalize-the-title](https://github.com/lahari222/leetcode/tree/master/2235-capitalize-the-title) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lahari222/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lahari222/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2547-odd-string-difference](https://github.com/lahari222/leetcode/tree/master/2547-odd-string-difference) |
