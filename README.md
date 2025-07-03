@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lahari222/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lahari222/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1904-second-largest-digit-in-a-string](https://github.com/lahari222/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1954-replace-all-digits-with-characters](https://github.com/lahari222/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/lahari222/leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lahari222/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lahari222/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
