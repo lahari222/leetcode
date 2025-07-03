@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/lahari222/leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/lahari222/leetcode/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/lahari222/leetcode/tree/master/0851-goat-latin) |
+| [0878-shifting-letters](https://github.com/lahari222/leetcode/tree/master/0878-shifting-letters) |
 | [0981-delete-columns-to-make-sorted](https://github.com/lahari222/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1260-day-of-the-year](https://github.com/lahari222/leetcode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/lahari222/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/lahari222/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/lahari222/leetcode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/lahari222/leetcode/tree/master/0861-flipping-an-image) |
+| [0878-shifting-letters](https://github.com/lahari222/leetcode/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/lahari222/leetcode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/lahari222/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/lahari222/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/lahari222/leetcode/tree/master/0878-shifting-letters) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lahari222/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/lahari222/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/lahari222/leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
